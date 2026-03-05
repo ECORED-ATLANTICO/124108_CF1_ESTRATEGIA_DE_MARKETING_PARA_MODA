@@ -3,12 +3,17 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
-    right: 10%
+    left: 0
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 10%
+    left: 0
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 5%
 
 @keyframes float1
   0%
@@ -30,16 +35,57 @@ figcaption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
-  @media screen and (max-width: $bp-max-xl)
-    width: 400px !important
+  width: 400px !important
+  @media screen and (min-width: $bp-max-xl)
+    padding-bottom: 0 !important
+
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
 .banner-principal .tarjeta
-  @media screen and (max-width: $bp-max-md)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+  @media screen and (max-width: $bp-max-md)
+    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+
+.bg-terciario-t20
+  background-color: $color-terciario-t20
+
+.banner-text
+  background-color: #FCEDF9
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -40px
+
+  @media (min-width: 992px)
+    margin-top: -100px
+
+.custom-tabs
+  .tabs-a
+    .tabs-a__tab
+      background-color: $color-terciario-t20
+    .tabs-a__tab__selected
+      background-color: $color-acento-botones
+    .tabs-a__content-item
+      height: -webkit-fill-available
+    @media (min-width: 1200px) 
+      .row
+        .col-xl-3 
+          flex: 0 0 auto
+          width: 30%
+        .col-xl-9
+          flex: 0 0 auto
+          width: 70%
+    @media (min-width: 992px) 
+      .row
+        .col-lg-4 
+          flex: 0 0 auto
+          width: 35%
+        .col-lg-8 
+          flex: 0 0 auto
+          width: 65%
+
+.custom-mh
+  height: -webkit-fill-available

@@ -7,11 +7,20 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/introduccion/1.png", alt="imagen de acompañamiento")
+      .col-lg-8
+        p Apreciado aprendiz, bienvenido a este momento de aprendizaje diseñado a partir de un contenido temático, recursos educativos digitales y actividades de aprendizaje que pretenden ayudar en el reconocimiento del plan estratégico de mercadeo de la organización, de acuerdo con los objetivos de la marca. En este sentido, se ha creado un video que presenta el contexto del presente componente de formación y que se encuentra a continuación.
+        .p-3.bg-terciario-t20.rounded-3
+          p.mb-0 Luego de entender las condiciones iniciales, es momento de introducir los fundamentos del mercadeo a través de una conceptualización básica de algunos elementos, haciendo un recorrido por la evolución del concepto de mercadeo hasta llegar a la tendencia del marketing digital, desarrollada hoy con gran fuerza.
     
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9bZfwswKaEY" title="Fundamentos del mercadeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Fundamentos del mercadeo
 
 </template>
 
