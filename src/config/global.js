@@ -36,28 +36,66 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Introducción al mercadeo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Tipos de mercadeo',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Importancia del mercadeo',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Variables del mercado',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Plan estratégico de mercadeo',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Análisis de competencia',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Marco legal vigente, e-commerce y redes sociales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Generalidades del comercio electrónico',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Características del comercio electrónico',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Regulación del comercio electrónico',
+            hash: 't_7_3',
+          },
+          {
+            numero: '7.4',
+            titulo: 'Normatividad del comercio electrónico',
+            hash: 't_7_4',
+          },
+        ],
       },
     ],
     subMenu: [

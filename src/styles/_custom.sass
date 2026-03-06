@@ -53,6 +53,17 @@ figcaption
 .bg-terciario-t20
   background-color: $color-terciario-t20
 
+.bg-primario-p20
+  background-color: $color-primario-p20
+
+.bg-amarillo-claro
+  background-color: #FDF0CC
+
+
+.img-265
+  width: 265px
+  margin: 0 auto
+
 .banner-text
   background-color: #FCEDF9
   border-radius: 10px
@@ -89,3 +100,91 @@ figcaption
 
 .custom-mh
   height: -webkit-fill-available
+
+.fullwidth-bg
+  display: none
+  position: relative
+  z-index: 0
+
+  @media (min-width: $bp-min-lg)
+    display: block
+
+  &--1::after
+    top: 80px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/common/bg-1.png')
+
+  &--2::after
+    top: 100px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/common/bg-2.png')
+
+.z-2
+  z-index: 2
+  position: relative
+
+.factores-slider
+  &__tarjeta
+    border-radius: 14px
+    height: 97% !important
+    margin: 10px
+    filter: drop-shadow(1px 1px 2px #00000010)
+    background-color: #F6F6F6
+    
+  &__icon 
+    max-width: 239px
+    margin-bottom: 20px
+    max-height: 110px
+  
+  &__title-wrapper
+    text-align: center
+
+  &__title
+    background-color: $color-acento-contenido-a5
+    padding: 10px 20px
+    display: block
+    font-size: 17px
+
+  &__number
+    color: $color-secundario
+    font-size: 30px
+    
+    &.color-acento-contenido
+      color: $color-acento-contenido
+      margin-bottom: 10px
+
+  .slyder-f
+    align-items: center
+    border-radius: 20px
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+
+  .slyder-f__btn
+    height: 35px
+    width: 35px
+    max-width: 35px
+    background-color: $color-acento-botones
+    border-radius: 50%
+    padding: 0 !important
+    margin: 0 auto
+    color: $white
+    .fa-chevron-left
+      font-size: 20px
+    .fa-chevron-right
+      font-size: 20px
+
+.acordion__accion__btn--a
+  color: $white
+  background-color: $color-acento-botones
+
+.accesibilidad
+  z-index: 3
+
+.tabs-b__content-item
+  background-color: $color-terciario-t20
