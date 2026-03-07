@@ -126,7 +126,12 @@
                 i.lista-ul__vineta
                 | Adopción de medidas correctivas.
 
-
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2.bg-azul-claro.p-3.p-lg-1.p-xl-0
+      .col-3.col-sm-2.col-lg-1
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/6.svg", alt="descripcion")
+      .col-lg-10
+        p.mb-0 Es importante definir, durante el plan de mercadeo, fases de control periódicas, que pueden implicar modificaciones sobre el plan original, contribuyendo a la competitividad de la empresa.
 
 
 
