@@ -212,3 +212,48 @@ figcaption
   top: 50%
   left: 0
   transform: translate(-50%, -50%)
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 5.2rem ))
+    background-color: #C2D0F9
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+.linea-tiempo-c__header__btn--right,
+.linea-tiempo-c__header__btn--left
+  background-color: $color-acento-botones
+  color: $white
+
+.bg-linea-tiempo
+  position: relative
+  z-index: 0
+  &::before
+    content: ''
+    position: absolute
+    top: -50px
+    bottom: -50px
+    right: -50px
+    left: -50px
+    background-image: var(--bg-image)
+    background-size: cover
+    background-position: center
+    z-index: -1
+
+.mb-6
+  margin-bottom: 6rem
