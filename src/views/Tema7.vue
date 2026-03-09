@@ -35,14 +35,49 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema7/3.png", alt="Imagen decorativa" data-aos="fade-left")
 
-    .row.justify-content-center.align-items-center.z-2
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/4.png", alt="imagen de acompañamiento")
       .col-lg-8
         p.mb-0 El e-commerce surge como una manera de cubrir la demanda de negocios globales y hace parte de la economía mundial. Se considera #[strong fundamental para el desarrollo empresarial a nivel internacional e, incluso a nivel social], está definiendo con fuerza, pues permite eliminar barreras entre países con el intercambio de bienes y servicios, mediante un contacto totalmente digitalizado, en tiempo real, entre un proveedor y un cliente con fines netamente comerciales, lo que posibilita altas penetraciones a nivel global. Existen varias modalidades de comercio electrónico. Es de destacar que se pueden definir cuatro tipos de comercio electrónico (Silva Murillo, 2009, p.158-161), como se aprecia a continuación.
 
-    //- TODO: Tarjetas pendientes
+    .row.justify-content-center.z-2.custom-hover
+      .col-xl-3.col-sm-6.col-lg-4.col-11.mb-4.mb-xl-0
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema7/5.png", alt="Imagen de acompañamiento")
+          .crd_hover_txt--body
+            h4.mb-3 Negocio a Negocio B2B
+            p.mb-0 El intercambio es mediante canales digitales.
+
+      .col-xl-3.col-sm-6.col-lg-4.col-11.mb-4.mb-xl-0
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema7/6.png", alt="Imagen de acompañamiento")
+          .crd_hover_txt--body
+            h4.mb-3 Negocio a Cliente B2C
+            p.mb-0 Se utiliza un sitio web para exponer sus productos.
+
+      .col-xl-3.col-sm-6.col-lg-4.col-11.mb-4.mb-xl-0
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema7/7.png", alt="Imagen de acompañamiento")
+          .crd_hover_txt--body
+            h4.mb-3 Cliente a Cliente C2C
+            p.mb-0 Relación entre clientes, a través de la web, para venta y compra.
+
+      .col-xl-3.col-sm-6.col-lg-4.col-11.mb-4.mb-xl-0
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/tema7/8.png", alt="Imagen de acompañamiento")
+          .crd_hover_txt--body
+            h4.mb-3 Cliente a Negocio C2B
+            p.mb-0 Se comunica la necesidad y la empresa la resuelve.
 
     Separador
     
@@ -128,7 +163,7 @@
 
     .row.justify-content-center
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema7/19.png", alt="Imagen de acompañamiento")
@@ -137,7 +172,7 @@
             p.mb-0 Se afirma que el ciberespacio es un escenario con autonomía y sin jurisdicción del Estado.
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema7/20.png", alt="Imagen de acompañamiento")
@@ -146,7 +181,7 @@
             p.mb-0 Son códigos de conducta derivados de la participación de los grupos, gremios o asociaciones suministradoras de acceso a Internet.
 
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
+        .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema7/21.png", alt="Imagen de acompañamiento")
@@ -165,7 +200,7 @@
 
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.banner-text--azul
+        div.banner-text
           p.mb-0 En materia de e-commerce en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999 y el decreto 1747 de 2000. Estas son algunas declaraciones regulatorias. 
 
     .bg-linea-tiempo.mb-6(:style="{'--bg-image': `url(${require('@/assets/curso/common/bg-tiempo.png')})`}")
@@ -201,7 +236,34 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema7/26.png", alt="Imagen decorativa" data-aos="fade-left")
 
-    
+    .row.justify-content-center.align-items-stretch.factores-slider.factores-slider--azul.mb-4.mb-lg-5
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
+          .row.justify-content-center
+            .col-7
+              img.mb-4(src='@/assets/curso/tema7/27.png' alt='Ilustacion de acompañamiento')
+            p.mb-4.text-center.text-bold Bajos niveles de seguridad.
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
+          .row.justify-content-center
+            .col-7
+              img.mb-4(src='@/assets/curso/tema7/28.png' alt='Ilustacion de acompañamiento')
+            p.mb-4.text-center.text-bold No está claramente implementada la firma y la factura electrónica.
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0
+        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
+          .row.justify-content-center
+            .col-7
+              img.mb-4(src='@/assets/curso/tema7/29.png' alt='Ilustacion de acompañamiento')
+            p.mb-4.text-center.text-bold No está claramente definido el tema de protección del consumidor.
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0
+        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
+          .row.justify-content-center
+            .col-7
+              img.mb-4(src='@/assets/curso/tema7/30.png' alt='Ilustacion de acompañamiento')
+            p.mb-4.text-center.text-bold Aún se presenta baja protección de datos personales, manifestada en la manipulación y hospedaje de dichos datos.
+
+    .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
+      p.mb-0 Hasta aquí, se ha hecho una aproximación conceptual relacionada con tipos de mercadeo, plan estratégico de mercadeo y marco legal del e-commerce y redes sociales. Es recomendable mantener una actitud de aprendizaje a lo largo de la vida en los temas que aquí convocan, ya que, debido a las dinámicas sociales, ellos pueden tener mejoras conceptuales.
 
 </template>
 
