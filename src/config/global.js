@@ -153,14 +153,104 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'AMA (American Marketing Association )',
+      significado:
+        'organización de origen estadounidense que agrupa a los profesionales y educadores del marketing (Olamendi, G, s.f.).',
+    },
+    {
+      termino: 'Negocio',
+      significado:
+        'un negocio debe definirse de acuerdo con tres dimensiones: los grupos de clientes a los que se sirve, las necesidades de los clientes que se satisfacen y la tecnología que permite producir los bienes o servicios ofrecidos (Olamendi, G, s.f.).',
+    },
+    {
+      termino: 'Planificación',
+      significado:
+        'es el proceso de reflexión, análisis y decisión, cuyo fin básico es la aproximación de la empresa hacia el futuro deseado, en un entorno incierto y habitualmente hostil (Olamendi, G, s.f.).',
+    },
+    {
+      termino: 'Plan de acción',
+      significado:
+        'es un conjunto de tareas organizadas que deben ser ejecutadas con los recursos disponibles y potenciales, para la consecución de los objetivos fijados (Olamendi, G, s.f.).',
+    },
+    {
+      termino: 'Valor agregado',
+      significado:
+        'Valor que el fabricante agrega a los materiales que prepara como productos para el consumo del mercado (Olamendi, G, s.f.).',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'American Marketing Association. (2020, Diciembre 3). Definitions of Marketing.',
+      link:
+        'https://www.ama.org/the-definition-of-marketing-what-is-marketing/',
+    },
+    {
+      referencia:
+        'Baena, V., y Moreno, F. (2010). Instrumentos de Marketing: Decisiones sobre producto, precio, distribución, comunicación y marketing directo (Manuales) (Spanish Edition) (1st ed.). Editorial UOC, S.L.',
+    },
+    {
+      referencia:
+        'CONPES 3620 de 2009 [Departamento de Planeación de Colombia] Por el cual se establecen las políticas para el desarrollo e impulso del comercio electrónico en Colombia. Noviembre 9 de 2009.',
+    },
+    {
+      referencia:
+        'Decreto 1747 de 2000 [Presidencia de la República de Colombia]. Por la cual por el cual se reglamenta parcialmente la Ley 527 de 1999, en lo relacionado con las entidades de certificación, los certificados y las firmas digitales. Septiembre 11 de 2000.',
+    },
+    {
+      referencia:
+        'Iniestra, L. (2015). Implementación de mercadotecnia digital a una empresa de chocolate gourmet [Tesis de maestría. Instituto Politécnico Nacional]. Repositorio Nacional.',
+      link: 'https://www.repositorionacionalcti.mx/',
+    },
+    {
+      referencia:
+        'Kotler, P. y Armstrong, G. (2013). Fundamentos de Marketing (11ª ed.). Pearson Educación.',
+    },
+    {
+      referencia:
+        'Kotler, P. y Keller, K. (2013). Dirección de Marketing. Pearson Educación.',
+    },
+    {
+      referencia:
+        'Lamb, C. W., Hair, J. F., & McDaniel, C. (2011). Marketing. Cengage Learning.',
+    },
+    {
+      referencia:
+        'Ley 527 de 1999 [Congreso de la República de Colombia] Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Agosto 21 de 1999.',
+    },
+    {
+      referencia:
+        'Olamendi, G (2021). Diccionario de marketing. EIG Business School. ',
+      link: 'https://esgerencia.com/pdf/blogmkt/diccionario.pdf',
+    },
+    {
+      referencia:
+        'Rincón, E. (2017) Derecho del comercio electrónico y de internet. Legis.',
+    },
+    {
+      referencia:
+        'Rosenstiehl, J. L. (2016). Tópicos generales de marketing estratégico. Notas de Clase N°39.',
+      link:
+        'https://repository.ucc.edu.co/bitstream/20.500.12494/14575/1/2016_NC_T%C3%B3picos%20generales%20de%20marketing%20estrat%C3%A9gico_Rosenstiehl.pdf',
+    },
+    {
+      referencia:
+        'Sainz, J. M. (2015). El plan de marketing en la práctica. ESIC.',
+    },
+    {
+      referencia:
+        'Silva, R. (2009). Beneficios del comercio electrónico. Perspectivas, 24, p.151-164.',
+      link: 'https://www.redalyc.org/articulo.oa?id=425942160008',
+    },
+    {
+      referencia:
+        'Stanton, W. J., Etzel, M., & Walker, B. (2007). Fundamentos de Marketing (13th ed.). McGraw-Hill Interamericana.',
+    },
+    {
+      referencia:
+        'Xie, Y. M. S. (2021). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. Ediciones de la U.',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=9100',
     },
   ],
   creditos: [

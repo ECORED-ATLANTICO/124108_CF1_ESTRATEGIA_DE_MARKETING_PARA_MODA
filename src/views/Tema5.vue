@@ -49,7 +49,7 @@
           .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Definición de objetivos de mercadeo")
             h4 Definición de objetivos de mercadeo
             p.mb-3 Partiendo del diagnóstico, se fijarán los objetivos del mercadeo, equiparados con las metas y estrategias de la empresa. 
-            ul.lista-ul.mb-3
+            ul.lista-ul.mb-3.custom-list
               li.d-flex 
                 i.lista-ul__vineta
                 | Deben armonizar con los objetivos generales de la empresa.
@@ -68,7 +68,7 @@
             p.mb-3 #[strong ¿Qué es?] Es la definición de la ruta a seguir para alcanzar los objetivos previstos, buscando posicionarse con ventaja en el mercado y alcanzar mayor rentabilidad de los recursos comerciales definidos. Exige tres niveles de estrategia:
             p #[strong Corporativa]
             p Se debe: 
-            ul.lista-ul.mb-3
+            ul.lista-ul.mb-3.custom-list
               li.d-flex 
                 i.lista-ul__vineta
                 | Definir misión.
@@ -90,7 +90,7 @@
             h4 Ejecución
             p.mb-3 Se trata de decidir las acciones que concretan la estrategia de marketing, especificando público objetivo, pronóstico de demanda, plazos previstos, recursos humanos, materiales y financieros.
             p Los planes de acción pueden estar definidos sobre:
-            ul.lista-ul.mb-3
+            ul.lista-ul.mb-3.custom-list
               li.d-flex 
                 i.lista-ul__vineta
                 | El producto
@@ -112,7 +112,7 @@
             h4 Evaluación de resultados o control
             p.mb-3 Momento fundamental, ya que permite valorar si el desarrollo del plan ha servido para alcanzar los objetivos pretendidos a partir de cuatro acciones:
     
-            ul.lista-ul.mb-3
+            ul.lista-ul.mb-3.custom-list
               li.d-flex 
                 i.lista-ul__vineta
                 | Análisis de los objetivos propuestos.
