@@ -13,7 +13,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 El #[em marketing] mezclado es uno de los elementos clásicos del marketing, el cual engloba los cuatros componentes básicos: #[strong precio, producto, comunicación y distribución]. Estas variables son conocidas como las 4P por su acepción anglosajona (#[em product, price, place y promotion]). 
+          p.mb-0 El #[em marketing] mezclado es uno de los elementos clásicos del #[em marketing], el cual engloba los cuatros componentes básicos: #[strong precio, producto, comunicación y distribución]. Estas variables son conocidas como las 4P por su acepción anglosajona (#[em product, price, place y promotion]). 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-6.col-lg-4
@@ -23,7 +23,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p20")
           .row(titulo="¿Cuál es tu producto o servicio?").justify-content-center.align-items-center
             .col-12
-              p El producto podría definirse como #[strong todo lo que se pone a disposición del consumidor, y puede comprender bienes y servicios]. Según Lam, Hair & McDaniel (2011), el producto es la gran pieza clave dentro del marketing mix (producto, precio, promoción y distribución); además, consideran al #[strong producto como elemento primordial dentro del proceso de producción], debido a que es el punto de partida de toda comercialización.
+              p El producto podría definirse como #[strong todo lo que se pone a disposición del consumidor, y puede comprender bienes y servicios]. Según Lam, Hair & McDaniel (2011), el producto es la gran pieza clave dentro del #[em marketing] mix (producto, precio, promoción y distribución); además, consideran al #[strong producto como elemento primordial dentro del proceso de producción], debido a que es el punto de partida de toda comercialización.
               p.mb-0 Dichos productos se deben diferenciar de otros y postularse como únicos a través de las cualidades o atributos que se les ponga. Es posible hablar de variedad, diseño, características, marcas, servicios, garantías.
           .row(titulo="¿Cuánto cobras? / ¿Cómo afecta esto tu marca?").justify-content-center.align-items-center
             .col-12
@@ -44,7 +44,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/3.png", alt="imagen de acompañamiento")
       .col-lg-8
         .p-4.bg-amarillo-claro.rounded-3.mb-3
-          p.mb-0 El avance más significativo, sin duda, fue el paso del marketing al mundo digital; sin embargo, a pesar de que han sido significativas en las estrategias de marketing por muchos años, las 4P han evolucionado con las necesidades del mercado y han sido sustituidas por las 4C.
+          p.mb-0 El avance más significativo, sin duda, fue el paso del #[em marketing] al mundo digital; sin embargo, a pesar de que han sido significativas en las estrategias de #[em marketing] por muchos años, las 4P han evolucionado con las necesidades del mercado y han sido sustituidas por las 4C.
         p.mb-0 Con las 4C, se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia. Ellos son: consumidor, costo, conveniencia y comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar, al entorno digital, el modelo del mercadeo tradicional de 4P (producto, precio, plaza y promoción), sin perder su esencia (Shum Xie, 2019). Observe a continuación sus cualidades en el recurso educativo.
 
     TabsB.color-acento-contenido
@@ -52,7 +52,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-9.col-xl-8
             h5 Consumidor
-            p.mb-4.mb-lg-0 Todas las estrategias para promocionar y vender un producto se basan en #[strong los gustos, deseos y necesidades de los consumidores], por ello, el marketing digital está tan enfocado en conocer y analizar su público a través de diversas técnicas para lograr efectividad en sus procesos.
+            p.mb-4.mb-lg-0 Todas las estrategias para promocionar y vender un producto se basan en #[strong los gustos, deseos y necesidades de los consumidores], por ello, el #[em marketing] digital está tan enfocado en conocer y analizar su público a través de diversas técnicas para lograr efectividad en sus procesos.
           .col-10.col-sm-8.col-lg-3
             figure
               img.img-265(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
@@ -76,7 +76,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-9.col-xl-8
             h5 Comunicación
-            p.mb-4.mb-lg-0 Los procesos comunicativos dentro del marketing digital juegan un papel muy importante, estos pueden definir la personalidad, interacción y conexión de la marca con su público; además, #[strong permiten realizar una entrega de información coherente] que logre una capitalización del tiempo invertido en lograr estos lazos de unión.
+            p.mb-4.mb-lg-0 Los procesos comunicativos dentro del #[em marketing] digital juegan un papel muy importante, estos pueden definir la personalidad, interacción y conexión de la marca con su público; además, #[strong permiten realizar una entrega de información coherente] que logre una capitalización del tiempo invertido en lograr estos lazos de unión.
           .col-10.col-sm-8.col-lg-3
             figure
               img.img-265(src='@/assets/curso/tema4/11.png', alt='Imagen de acompañamiento')

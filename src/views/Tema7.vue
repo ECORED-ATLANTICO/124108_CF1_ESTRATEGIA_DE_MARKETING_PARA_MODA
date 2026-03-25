@@ -19,7 +19,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/2.png", alt="imagen de acompañamiento")
       .col-lg-8
-        .p-4.bg-azul-claro.rounded-3.mb-3
+        .p-4.bg-color-terciario.rounded-3.mb-3
           p.mb-0 Según Rincón (2017), #[strong el comercio electrónico es una metodología inteligente para hacer negocios, la cual es capaz de detectar necesidades de empresas, comerciantes y consumidores]. Asimismo, ayuda a la reducción de costos de operación y desplazamientos de los intervinientes en la relación comercial, además de mejorar el tiempo de entrega de los bienes, ya sean estos productos o servicios. 
         p.mb-0 Igualmente, para la Ley 517 de 1999, en su artículo 2º, #[strong el comercio electrónico abarca las cuestiones suscitadas por toda relación de índole comercial, sea o no contractual, estructurada a partir de la utilización de uno o más mensajes de datos o de cualquier otro medio similar]. Las relaciones de índole comercial comprenden, sin limitarse a ellas, las siguientes operaciones: toda operación comercial de suministro o intercambio de bienes o servicios; todo acuerdo de distribución; toda operación de representación o mandato comercial; todo tipo de operaciones financieras, bursátiles y de seguros; de construcción de obras; de consultoría; de ingeniería; de concesión de licencias; todo acuerdo de concesión o explotación de un servicio público; de empresa conjunta y otras formas de cooperación industrial o comercial; de transporte de mercancías o de pasajeros, por vía aérea, marítima, férrea, o por carretera. 
 
@@ -161,6 +161,8 @@
     #t_7_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 7.3 Regulación del comercio electrónico
 
+    p.mb-4.mb-lg-5 Al hablar de las acciones regulatorias del comercio electrónico, es posible afirmar que se encuentran en permanente discusión y nombrar las tres tendencias existentes.
+
     .row.justify-content-center
       .col-xl-4.col-sm-8.col-lg-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
@@ -176,7 +178,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema7/20.png", alt="Imagen de acompañamiento")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.pt-2.pt-md-4
             h4.mb-3 Autorregulación a partir del marco propiciado por los sujetos involucrados.
             p.mb-0 Son códigos de conducta derivados de la participación de los grupos, gremios o asociaciones suministradoras de acceso a Internet.
 
@@ -187,14 +189,11 @@
               img(src="@/assets/curso/tema7/21.png", alt="Imagen de acompañamiento")
           .crd_hover_txt--body
             h4.mb-3 Regulación legislativa basada en las normativas actuales.
-            p.mb-0 
 
     Separador
     
-    .row.justify-content-center
-      .col-xl-10
-        #t_7_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 7.4 Normatividad del comercio electrónico
+    #t_7_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 7.4 Normatividad del comercio electrónico
 
     img(data-aos="fade-up")(src="@/assets/curso/tema7/22.png", alt="Imagen decorativa")
 
@@ -204,7 +203,7 @@
           p.mb-0 En materia de e-commerce en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999 y el decreto 1747 de 2000. Estas son algunas declaraciones regulatorias. 
 
     .bg-linea-tiempo.mb-6(:style="{'--bg-image': `url(${require('@/assets/curso/common/bg-tiempo.png')})`}")
-      LineaTiempoC.color-secundario.mt-5.bg-white.z-2.p-4.rounded-4
+      PasosB.color-secundario.mt-5.bg-white.z-2.p-4.rounded-4
         .row.justify-content-center.align-items-center(titulo="Ley 527 de 1999")
           .col-lg-7.col-xl-6
             h5 Ley 527 de 1999

@@ -62,6 +62,9 @@ figcaption
 .bg-azul-claro
   background-color: #F1F6F9
 
+.bg-color-terciario
+  background-color: $color-terciario
+
 .img-85
   width: 85px
   margin: 0 auto
@@ -128,7 +131,7 @@ figcaption
     display: block
 
   &--1::after
-    top: 80px
+    top: -20px
     left: -50px
     position: absolute
     content: url('../assets/curso/common/bg-1.png')
@@ -203,6 +206,9 @@ figcaption
 .acordion__accion__btn--a
   color: $white
   background-color: $color-acento-botones
+.acordion
+  .tarjeta.bg-primario-p20.acordion__activo
+    background-color: #F4F5F6
 
 .accesibilidad
   z-index: 3
@@ -277,3 +283,30 @@ figcaption
     top: -2px !important
     &:before
       content: url('../assets/curso/common/list-disc.svg')
+
+.pasos-b
+  .pasos-b__header__btn--left, .pasos-b__header__btn--right
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    color: $white
+  .pasos-b__header__item--before
+    .pasos-b__header__item__dot
+      background-color: $color-terciario
+      border-color: $color-terciario
+      i
+        color: $color-sistema-texto !important
+    .pasos-b__header__item__line-container:after, .pasos-b__header__item__line-container:before
+      background-color: #cccccc
+
+  .pasos-b__header__item--active
+    span
+      color: $white !important
+
+    .pasos-b__header__item__line-container:before,.pasos-b__header__item__line-container:after
+      background-color: #CCCCCC
+
+  .pasos-b__header__item:first-child .pasos-b__header__item__line-container:before 
+    background-color: transparent !important
+
+  .pasos-b__header__item:last-child .pasos-b__header__item__line-container:after
+    background-color: transparent !important

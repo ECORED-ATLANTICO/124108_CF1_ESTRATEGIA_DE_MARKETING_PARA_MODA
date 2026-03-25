@@ -13,7 +13,7 @@
         p La situación actual de crisis económica, la competencia feroz y la incertidumbre de los mercados ubican el mercadeo en un lugar de importancia para cualquier tipo de organización. A la hora de emprender algún tipo de negocio o empresa, el mercadeo posibilita dar respuesta a una serie de interrogantes que marcan la ruta de navegación:
       .col-8.col-sm-6.col-lg-2
         figure
-          img(src="@/assets/curso/tema3/1.svg", alt="Imagen decorativa" data-aos="fade-left")
+          img(src="@/assets/curso/tema3/1.png", alt="Imagen decorativa" data-aos="fade-left")
 
     .row.justify-content-center.align-items-stretch.mb-4
       .col-10.col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -24,7 +24,7 @@
               .row.justify-content-center.mb-3
                 .col-12
                   .p-2
-                    p.text-center.mb-0 #[strong ¿Qué es lo que se va a vender?]
+                    p.text-center.mb-0 #[strong ¿Qué se va a vender?]
       .col-10.col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/3.svg' alt='AvatarTop')

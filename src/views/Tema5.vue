@@ -14,7 +14,7 @@
       .col-lg-8
         p.mb-3 Las empresas o negocios, por pequeños que sean, #[strong requieren una guía o ruta para planificar todas las acciones y estrategias para el cumplimiento de su objetivo]. Existen múltiples definiciones de lo que es un plan estratégico de mercadeo, pero se puede decir que hace referencia a la planeación sistemática y estructurada de la posición competitiva de la empresa, partiendo del análisis y conocimiento del mercado y buscando oportunidades que la empresa pueda realizar para satisfacer las necesidades de los consumidores, de manera óptima, eficiente y con calidad, a diferencia de los competidores.
         .p-4.bg-amarillo-claro.rounded-3.mb-3
-          p.mb-0 Según Sainz de Vicuña (2015), #[strong “el plan estratégico constituye una herramienta en la que la alta dirección recoge las decisiones estratégicas de marketing que ha adoptado hoy”] (p.77), es decir que el plan estratégico para el marketing es una pieza clave del proceso de planificación comercial. Es uno de los instrumentos más valiosos que ayuda a combatir el riesgo comercial de las decisiones y aprovecha las oportunidades del mercado.
+          p.mb-0 Según Sainz de Vicuña (2015), #[strong “el plan estratégico constituye una herramienta en la que la alta dirección recoge las decisiones estratégicas de #[em marketing] que ha adoptado hoy”] (p.77), es decir que el plan estratégico para el marketing es una pieza clave del proceso de planificación comercial. Es uno de los instrumentos más valiosos que ayuda a combatir el riesgo comercial de las decisiones y aprovecha las oportunidades del mercado.
 
     img(data-aos="fade-up")(src="@/assets/curso/tema5/2.png", alt="Imagen decorativa")
 
@@ -93,16 +93,16 @@
             ul.lista-ul.mb-3.custom-list
               li.d-flex 
                 i.lista-ul__vineta
-                | El producto
+                | El producto.
               li.d-flex 
                 i.lista-ul__vineta
-                | El precio
+                | El precio.
               li.d-flex 
                 i.lista-ul__vineta
-                | Distribución y fuerza de venta
+                | Distribución y fuerza de venta.
               li.d-flex 
                 i.lista-ul__vineta
-                | La comunicación
+                | La comunicación.
 
           .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Definición y asignación de presupuesto")
             h4 Definición y asignación de presupuesto

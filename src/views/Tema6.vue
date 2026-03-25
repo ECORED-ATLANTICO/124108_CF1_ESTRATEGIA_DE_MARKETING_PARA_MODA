@@ -58,10 +58,10 @@
               p.mb-0 Para la estrategia de precios, es necesario conocer los precios, descuentos y las condiciones de negociación de la competencia.
           .row(titulo="Elementos comunicativos").justify-content-center.align-items-center
             .col-12
-              p.mb-0 Identificar la estrategia comunicativa, el target, elementos de la promesa de valor y todos aquellos elementos comunicativos diferenciadores de la marca.
+              p.mb-0 Identificar la estrategia comunicativa, el #[em target], elementos de la promesa de valor y todos aquellos elementos comunicativos diferenciadores de la marca.
           .row(titulo="Elementos de satisfacción del cliente").justify-content-center.align-items-center
             .col-12
-              p.mb-0 Establecer benchmarks para identificar indicadores de satisfacción de los clientes propios y de la competencia.
+              p.mb-0 Establecer #[em benchmarks] para identificar indicadores de satisfacción de los clientes propios y de la competencia.
           .row(titulo="Elementos de canales de distribución").justify-content-center.align-items-center
             .col-12
               p.mb-0 Conocer la penetración y la presencia en el mercado del competidor.
