@@ -195,7 +195,7 @@ export default {
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2000, 11 de septiembre). Decreto 1747 de 2000: por el cual se reglamenta parcialmente la Ley 527 de 1999, en lo relacionado con las entidades de certificación, los certificados y las firmas digitales.',
+        'Presidencia de la República de Colombia. (2000, 11 de septiembre). <em>Decreto 1747 de 2000: por el cual se reglamenta parcialmente la Ley 527 de 1999, en lo relacionado con las entidades de certificación, los certificados y las firmas digitales.</em>',
     },
     {
       referencia:
@@ -216,7 +216,7 @@ export default {
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (1999, 21 de agosto). Ley 527 de 1999: por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.',
+        'Congreso de la República de Colombia. (1999, 21 de agosto). <em>Ley 527 de 1999: por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.</em>',
     },
     {
       referencia:

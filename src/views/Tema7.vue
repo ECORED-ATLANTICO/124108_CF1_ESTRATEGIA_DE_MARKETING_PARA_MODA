@@ -202,7 +202,7 @@
         div.banner-text
           p.mb-0 En materia de e-commerce en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999 y el decreto 1747 de 2000. Estas son algunas declaraciones regulatorias. 
 
-    .bg-linea-tiempo.mb-6(:style="{'--bg-image': `url(${require('@/assets/curso/common/bg-tiempo.png')})`}")
+    .bg-linea-tiempo.mb-6
       PasosB.color-secundario.mt-5.bg-white.z-2.p-4.rounded-4
         .row.justify-content-center.align-items-center(titulo="Ley 527 de 1999")
           .col-lg-7.col-xl-6
