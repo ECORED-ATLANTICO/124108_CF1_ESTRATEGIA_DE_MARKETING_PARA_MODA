@@ -223,7 +223,7 @@
         .row.justify-content-center.align-items-center(titulo="CONPES 3620 de 2009")
           .col-lg-7.col-xl-6
             h5 CONPES 3620 de 2009
-            p.mb-4.mb-lg-0 Este documento de política pública contiene los lineamientos de política para el desarrollo e impulso del e- commerce en Colombia y se incorpora en el plan de acción de la protección de datos personales; recomienda promover y aplicar la ley 1266 de 2008, que es la que dicta las disposiciones generales del habeas data y regula el manejo de la información en sectores diferentes al comercial y financiero, a nivel nacional e internacional.
+            p.mb-4.mb-lg-0 Este documento de política pública contiene los lineamientos de política para el desarrollo e impulso del #[em e-commerce] en Colombia y se incorpora en el plan de acción de la protección de datos personales; recomienda promover y aplicar la ley 1266 de 2008, que es la que dicta las disposiciones generales del habeas data y regula el manejo de la información en sectores diferentes al comercial y financiero, a nivel nacional e internacional.
           .col-10.col-lg-5.col-xl-4
             figure
               img(src="@/assets/curso/tema7/25.png", alt="Imagen de acompañamiento")
