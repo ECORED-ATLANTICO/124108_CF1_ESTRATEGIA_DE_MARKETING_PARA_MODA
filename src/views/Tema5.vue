@@ -14,7 +14,7 @@
       .col-lg-8
         p.mb-3 Las empresas o negocios, por pequeños que sean, #[strong requieren una guía o ruta para planificar todas las acciones y estrategias para el cumplimiento de su objetivo]. Existen múltiples definiciones de lo que es un plan estratégico de mercadeo, pero se puede decir que hace referencia a la planeación sistemática y estructurada de la posición competitiva de la empresa, partiendo del análisis y conocimiento del mercado y buscando oportunidades que la empresa pueda realizar para satisfacer las necesidades de los consumidores, de manera óptima, eficiente y con calidad, a diferencia de los competidores.
         .p-4.bg-amarillo-claro.rounded-3.mb-3
-          p.mb-0 Según Sainz de Vicuña (2015), #[strong “el plan estratégico constituye una herramienta en la que la alta dirección recoge las decisiones estratégicas de #[em marketing] que ha adoptado hoy”] (p.77), es decir que el plan estratégico para el marketing es una pieza clave del proceso de planificación comercial. Es uno de los instrumentos más valiosos que ayuda a combatir el riesgo comercial de las decisiones y aprovecha las oportunidades del mercado.
+          p.mb-0 Según Sainz de Vicuña (2015), #[strong “el plan estratégico constituye una herramienta en la que la alta dirección recoge las decisiones estratégicas de #[em marketing] que ha adoptado hoy”] (p.77), es decir que el plan estratégico para el #[em marketing] es una pieza clave del proceso de planificación comercial. Es uno de los instrumentos más valiosos que ayuda a combatir el riesgo comercial de las decisiones y aprovecha las oportunidades del mercado.
 
     img(data-aos="fade-up")(src="@/assets/curso/tema5/2.png", alt="Imagen decorativa")
 
@@ -22,7 +22,7 @@
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.banner-text--azul
           h5.mb-4 Estructura del plan de mercadeo
-          p.mb-0 Hay tantas formas de estructurar un plan de mercadeo como empresas existentes. Sin embargo, se pueden definir unos elementos comunes y necesarios a la hora de estructurarlo. El plan de marketing se divide en una serie de fases y etapas consecutivas, que puedes observar en la siguiente infografía, para que evalúes la forma de implementarlo en tu contexto laboral.
+          p.mb-0 Hay tantas formas de estructurar un plan de mercadeo como empresas existentes. Sin embargo, se pueden definir unos elementos comunes y necesarios a la hora de estructurarlo. El plan de #[em marketing] se divide en una serie de fases y etapas consecutivas, que puedes observar en la siguiente infografía, para que evalúes la forma de implementarlo en tu contexto laboral.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-6
@@ -42,7 +42,7 @@
             h4 Análisis
             p.mb-3 Se requiere un análisis riguroso de la situación interna y externa de la empresa.
             p #[strong Análisis interno]
-            p.mb-3 Se deben detectar fortalezas y debilidades empresariales. La herramienta Canvas es útil para ello, porque permite valorar la propia capacidad de la empresa para aprovechar las oportunidades y afrontar las amenazas.
+            p.mb-3 Se deben detectar fortalezas y debilidades empresariales. La herramienta #[em Canvas] es útil para ello, porque permite valorar la propia capacidad de la empresa para aprovechar las oportunidades y afrontar las amenazas.
             p #[strong Análisis externo]
             p Se realiza un análisis del entorno,  donde se observa la estructura, naturaleza y dinámica  del mercado, precisando factores como entorno, mercado y competencia.
 
@@ -88,7 +88,7 @@
 
           .tarjeta.p-4.h-100.bg-terciario-t20(titulo="Ejecución")
             h4 Ejecución
-            p.mb-3 Se trata de decidir las acciones que concretan la estrategia de marketing, especificando público objetivo, pronóstico de demanda, plazos previstos, recursos humanos, materiales y financieros.
+            p.mb-3 Se trata de decidir las acciones que concretan la estrategia de #[em marketing], especificando público objetivo, pronóstico de demanda, plazos previstos, recursos humanos, materiales y financieros.
             p Los planes de acción pueden estar definidos sobre:
             ul.lista-ul.mb-3.custom-list
               li.d-flex 

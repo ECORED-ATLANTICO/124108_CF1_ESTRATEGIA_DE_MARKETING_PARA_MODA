@@ -53,7 +53,7 @@
                   .p-2
                     p.text-center.mb-0 #[strong ¿Cómo alcanzar los propósitos?]
 
-    p.mb-4.mb-lg-5 #[strong Asimismo, se pueden definir una serie de elementos que marcan la importancia de este proceso, tales como:]
+    p.mb-4.mb-lg-5 #[strong Así mismo, se pueden definir una serie de elementos que marcan la importancia de este proceso, tales como:]
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-6.col-lg-5

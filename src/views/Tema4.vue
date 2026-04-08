@@ -23,7 +23,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p20")
           .row(titulo="¿Cuál es tu producto o servicio?").justify-content-center.align-items-center
             .col-12
-              p El producto podría definirse como #[strong todo lo que se pone a disposición del consumidor, y puede comprender bienes y servicios]. Según Lam, Hair & McDaniel (2011), el producto es la gran pieza clave dentro del #[em marketing] mix (producto, precio, promoción y distribución); además, consideran al #[strong producto como elemento primordial dentro del proceso de producción], debido a que es el punto de partida de toda comercialización.
+              p El producto podría definirse como #[strong todo lo que se pone a disposición del consumidor, y puede comprender bienes y servicios]. Según Lam, Hair & McDaniel (2011), el producto es la gran pieza clave dentro del #[em marketing mix] (producto, precio, promoción y distribución); además, consideran al #[strong producto como elemento primordial dentro del proceso de producción], debido a que es el punto de partida de toda comercialización.
               p.mb-0 Dichos productos se deben diferenciar de otros y postularse como únicos a través de las cualidades o atributos que se les ponga. Es posible hablar de variedad, diseño, características, marcas, servicios, garantías.
           .row(titulo="¿Cuánto cobras? / ¿Cómo afecta esto tu marca?").justify-content-center.align-items-center
             .col-12

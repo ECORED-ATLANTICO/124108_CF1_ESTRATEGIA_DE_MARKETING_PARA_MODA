@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Marco legal vigente, e-commerce y redes sociales
+      h1 Marco legal vigente, #[em e-commerce] y redes sociales
 
     img(data-aos="fade-up")(src="@/assets/curso/tema7/1.png", alt="Imagen decorativa")
 
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.banner-text--azul
-          p.mb-0 Se puede plantear el comercio electrónico, o e-commerce, en su definición más amplia, #[strong como el proceso de comercialización (compra y venta) de productos por medios electrónicos, utilizando aplicaciones móviles e Internet]; o como una acción empresarial para mejorar sus ventas a través del uso de las nuevas tecnologías. 
+          p.mb-0 Se puede plantear el comercio electrónico, o #[em e-commerce], en su definición más amplia, #[strong como el proceso de comercialización (compra y venta) de productos por medios electrónicos, utilizando aplicaciones móviles e Internet]; o como una acción empresarial para mejorar sus ventas a través del uso de las nuevas tecnologías. 
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4
@@ -40,7 +40,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/4.png", alt="imagen de acompañamiento")
       .col-lg-8
-        p.mb-0 El e-commerce surge como una manera de cubrir la demanda de negocios globales y hace parte de la economía mundial. Se considera #[strong fundamental para el desarrollo empresarial a nivel internacional e, incluso a nivel social], está definiendo con fuerza, pues permite eliminar barreras entre países con el intercambio de bienes y servicios, mediante un contacto totalmente digitalizado, en tiempo real, entre un proveedor y un cliente con fines netamente comerciales, lo que posibilita altas penetraciones a nivel global. Existen varias modalidades de comercio electrónico. Es de destacar que se pueden definir cuatro tipos de comercio electrónico (Silva Murillo, 2009, p.158-161), como se aprecia a continuación.
+        p.mb-0 El #[em e-commerce] surge como una manera de cubrir la demanda de negocios globales y hace parte de la economía mundial. Se considera #[strong fundamental para el desarrollo empresarial a nivel internacional e, incluso a nivel social], está definiendo con fuerza, pues permite eliminar barreras entre países con el intercambio de bienes y servicios, mediante un contacto totalmente digitalizado, en tiempo real, entre un proveedor y un cliente con fines netamente comerciales, lo que posibilita altas penetraciones a nivel global. Existen varias modalidades de comercio electrónico. Es de destacar que se pueden definir cuatro tipos de comercio electrónico (Silva Murillo, 2009, p.158-161), como se aprecia a continuación.
 
     .row.justify-content-center.z-2.custom-hover
       .col-xl-3.col-sm-6.col-lg-4.col-11.mb-4.mb-xl-0
@@ -200,14 +200,14 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 En materia de e-commerce en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999 y el decreto 1747 de 2000. Estas son algunas declaraciones regulatorias. 
+          p.mb-0 En materia de #[em e-commerce] en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999 y el decreto 1747 de 2000. Estas son algunas declaraciones regulatorias. 
 
     .bg-linea-tiempo.mb-6
       PasosB.color-secundario.mt-5.bg-white.z-2.p-4.rounded-4
         .row.justify-content-center.align-items-center(titulo="Ley 527 de 1999")
           .col-lg-7.col-xl-6
             h5 Ley 527 de 1999
-            p.mb-4.mb-lg-0 Es la encargada de regular las transacciones en la red y brindar el soporte jurídico para la realización de las operaciones por medios electrónicos. El uso de los mensajes de datos, las firmas digitales para todas las actividades, así como la costumbre mercantil en materia de e-commerce están reglamentados a partir de esta ley.
+            p.mb-4.mb-lg-0 Es la encargada de regular las transacciones en la red y brindar el soporte jurídico para la realización de las operaciones por medios electrónicos. El uso de los mensajes de datos, las firmas digitales para todas las actividades, así como la costumbre mercantil en materia de #[em e-commerce] están reglamentados a partir de esta ley.
           .col-10.col-lg-5.col-xl-4
             figure
               img(src="@/assets/curso/tema7/23.png", alt="Imagen de acompañamiento")
@@ -262,7 +262,7 @@
             p.mb-4.text-center.text-bold Aún se presenta baja protección de datos personales, manifestada en la manipulación y hospedaje de dichos datos.
 
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
-      p.mb-0 Hasta aquí, se ha hecho una aproximación conceptual relacionada con tipos de mercadeo, plan estratégico de mercadeo y marco legal del e-commerce y redes sociales. Es recomendable mantener una actitud de aprendizaje a lo largo de la vida en los temas que aquí convocan, ya que, debido a las dinámicas sociales, ellos pueden tener mejoras conceptuales.
+      p.mb-0 Hasta aquí, se ha hecho una aproximación conceptual relacionada con tipos de mercadeo, plan estratégico de mercadeo y marco legal del #[em e-commerce] y redes sociales. Es recomendable mantener una actitud de aprendizaje a lo largo de la vida en los temas que aquí convocan, ya que, debido a las dinámicas sociales, ellos pueden tener mejoras conceptuales.
 
 </template>
 

@@ -72,7 +72,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Marco legal vigente, e-commerce y redes sociales',
+        titulo: 'Marco legal vigente, <em>e-commerce</em> y redes sociales',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -129,7 +129,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1',
       },
       {
         icono: 'fas fa-download',
@@ -153,9 +153,9 @@ export default {
   // ],
   glosario: [
     {
-      termino: 'AMA (American Marketing Association )',
+      termino: 'AMA (American Marketing Association)',
       significado:
-        'organización de origen estadounidense que agrupa a los profesionales y educadores del marketing (Olamendi, G, s.f.).',
+        'organización de origen estadounidense que agrupa a los profesionales y educadores del <em>marketing</em> (Olamendi, G, s.f.).',
     },
     {
       termino: 'Negocio',
@@ -191,11 +191,11 @@ export default {
     },
     {
       referencia:
-        'Departamento Nacional de Planeación. (2009, 9 de noviembre). <em>CONPES 3620: por el cual se establecen las políticas para el desarrollo e impulso del comercio electrónico en Colombia</em>.',
+        'CONPES 3620 de 2009 [Departamento de Planeación de Colombia]. <em>Por el cual se establecen las políticas para el desarrollo e impulso del comercio electrónico en Colombia</em>. Noviembre 9 de 2009.',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2000, 11 de septiembre). <em>Decreto 1747 de 2000: por el cual se reglamenta parcialmente la Ley 527 de 1999, en lo relacionado con las entidades de certificación, los certificados y las firmas digitales.</em>',
+        'Decreto 1747 de 2000 [Presidencia de la República de Colombia]. <em>Por la cual por el cual se reglamenta parcialmente la Ley 527 de 1999, en lo relacionado con las entidades de certificación, los certificados y las firmas digitales</em>. Septiembre 11 de 2000.',
     },
     {
       referencia:
@@ -229,8 +229,7 @@ export default {
     {
       referencia:
         'Rosenstiehl, J. L. (2016). <em>Tópicos generales de marketing estratégico</em> (Notas de clase N.º 39).',
-      link:
-        'https://repository.ucc.edu.co/bitstream/20.500.12494/14575/1/2016_NC_T%C3%B3picos%20generales%20de%20marketing%20estrat%C3%A9gico_Rosenstiehl.pdf',
+      link: '',
     },
     {
       referencia:
@@ -248,8 +247,7 @@ export default {
     {
       referencia:
         'Xie, Y. M. S. (2021). <em>Marketing digital: navegando en aguas digitales, sumérgete conmigo</em>. Ediciones de la U.',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=9100',
+      link: '',
     },
   ],
   creditos: [

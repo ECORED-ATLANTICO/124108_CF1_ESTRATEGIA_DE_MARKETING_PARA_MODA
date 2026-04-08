@@ -20,7 +20,7 @@
     figure.mb-5
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/9bZfwswKaEY" title="Fundamentos del mercadeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Fundamentos del mercadeo
+      figcaption Video: Introducción: fundamentos del mercadeo
 
 </template>
 

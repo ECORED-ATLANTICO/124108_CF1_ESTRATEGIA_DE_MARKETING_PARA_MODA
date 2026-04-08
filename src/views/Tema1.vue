@@ -18,7 +18,7 @@
       .col-lg-8(data-aos="fade-right").custom-tabs
         TabsA.color-acento-botones.mb-4.mb-lg-0
           .tarjeta.p-4.h-100.d-flex.align-items-center.bg-terciario-t20(titulo="Concepto 1")
-            p.mb-4.mb-lg-0 La mercadotecnia (#[em marketing] o mercadeo) es #[strong la actividad, conjunto de instituciones y procesos para crear, comunicar, entregar e intercambiar ofertas que tienen valor para los consumidores, clientes y socios]. Cabe mencionar que antes se concebía el mercadeo solo en el marco de las ventas (American #[em marketing] Asociation, 2017).
+            p.mb-4.mb-lg-0 La mercadotecnia (#[em marketing] o mercadeo) es #[strong la actividad, conjunto de instituciones y procesos para crear, comunicar, entregar e intercambiar ofertas que tienen valor para los consumidores, clientes y socios]. Cabe mencionar que antes se concebía el mercadeo solo en el marco de las ventas (American Marketing Association, 2017).
 
           .tarjeta.p-4.h-100.d-flex.align-items-center.bg-terciario-t20(titulo="Concepto 2")
             p.mb-4.mb-lg-0 Según  Philip Kotler y Gary Armstrong (2013), #[strong "el #[em marketing] es un proceso social y directivo mediante el que los individuos y las organizaciones obtienen lo que necesitan y desean a través de la creación y el intercambio de valor con los demás”]. (p.5).
