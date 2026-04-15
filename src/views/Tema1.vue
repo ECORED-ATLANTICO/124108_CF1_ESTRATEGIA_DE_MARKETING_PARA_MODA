@@ -45,8 +45,8 @@
 
     figure.mb-5
       .video.mb-2
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/DgLQ5jA1pIw" title="Evolución concepto de mercadeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      figcaption Video: Evolución concepto de mercadeo
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1lZ0BBcM-SE" title="Evolución del concepto de mercadeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: evolución del concepto de mercadeo
 
 </template>
 
