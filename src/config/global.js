@@ -68,6 +68,13 @@ export default {
         numero: '6',
         titulo: 'Análisis de competencia',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Dimensiones en el análisis de la competencia',
+            hash: 't_6_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema7',
@@ -174,8 +181,7 @@ export default {
     {
       referencia:
         'American Marketing Association. (2020, 3 de diciembre). <em>Definitions of marketing</em>.',
-      link:
-        'https://www.ama.org/the-definition-of-marketing-what-is-marketing/',
+      link: '',
     },
     {
       referencia:
@@ -192,7 +198,7 @@ export default {
     {
       referencia:
         'Iniestra, L. (2015). <em>Implementación de mercadotecnia digital a una empresa de chocolate gourmet</em> [Tesis de maestría, Instituto Politécnico Nacional]. Repositorio Nacional.',
-      link: 'https://www.repositorionacionalcti.mx/',
+      link: '',
     },
     {
       referencia:
@@ -250,7 +256,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
