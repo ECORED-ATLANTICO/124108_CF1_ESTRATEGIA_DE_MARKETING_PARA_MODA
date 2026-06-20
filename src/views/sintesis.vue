@@ -13,7 +13,7 @@
     .row.justify-content-center
       .col-12 
         figure.mb-4
-          img(src="@/assets/curso/sintesis.svg", alt="")
+          img(src="@/assets/curso/sintesis.svg", alt="Esquema jerárquico titulado “Fundamentos del mercadeo”, del cual se desprenden varios componentes principales organizados en bloques: inducción al mercadeo, tipos de mercadeo, importancia del mercadeo, variables del mercadeo, plan estratégico del mercadeo, análisis de competencia y un apartado sobre el marco legal vigente del e-commerce y redes sociales; este último se desarrolla en subtemas que incluyen generalidades, características, regulación y normatividad del comercio electrónico, mostrando así una estructura integral de los elementos clave que conforman el estudio del mercadeo.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -22,12 +22,16 @@
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.banner-text--azul
           h5.mb-4 Estructura del plan de mercadeo
-          p.mb-0 Hay tantas formas de estructurar un plan de mercadeo como empresas existentes. Sin embargo, se pueden definir unos elementos comunes y necesarios a la hora de estructurarlo. El plan de #[em marketing] se divide en una serie de fases y etapas consecutivas, que puedes observar en la siguiente infografía, para que evalúes la forma de implementarlo en tu contexto laboral.
+          p.mb-0 Hay tantas formas de estructurar un plan de mercadeo como empresas existentes. Sin embargo, se pueden definir unos elementos comunes y necesarios a la hora de estructurarlo. El plan de marketing se divide en una serie de fases y etapas consecutivas, las cuales se detallan a continuación, para que evalúe la forma de implementarlo en su contexto laboral.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-6
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/4.svg", alt="plan + mercadeo = un documento estratégico")
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 2.
+          span Estructura del plan de mercadeo
+        img.mb-2(data-aos="fade-down-right", src="@/assets/curso/tema5/4.svg", alt="plan + mercadeo = un documento estratégico")
+        figcaption Nota. SENA, (2026).
+          
       .col-lg-6
         h5.mb-4 ¿Cómo estructurar un plan de mercadeo?
         p.mb-0 Antes de empezar, es importante identificar que el término plan tiene relación con el verbo planear, que significa, en nuestra lengua, trazar una ruta para llegar a un objetivo; y cuando se le suma la palabra mercadeo, ¿Qué se obtiene como resultado?
@@ -42,7 +46,7 @@
             h4 Análisis
             p.mb-3 Se requiere un análisis riguroso de la situación interna y externa de la empresa.
             p #[strong Análisis interno]
-            p.mb-3 Se deben detectar fortalezas y debilidades empresariales. La herramienta #[em Canvas] es útil para ello, porque permite valorar la propia capacidad de la empresa para aprovechar las oportunidades y afrontar las amenazas.
+            p.mb-3 Se deben detectar fortalezas y debilidades empresariales. La herramienta Canvas es útil para ello, porque permite valorar la propia capacidad de la empresa para aprovechar las oportunidades y afrontar las amenazas.
             p #[strong Análisis externo]
             p Se realiza un análisis del entorno,  donde se observa la estructura, naturaleza y dinámica  del mercado, precisando factores como entorno, mercado y competencia.
 

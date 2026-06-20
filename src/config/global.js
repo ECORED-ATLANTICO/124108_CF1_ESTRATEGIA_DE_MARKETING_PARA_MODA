@@ -181,7 +181,8 @@ export default {
     {
       referencia:
         'American Marketing Association. (2020, 3 de diciembre). <em>Definitions of marketing</em>.',
-      link: '',
+      link:
+        'https://www.ama.org/the-definition-of-marketing-what-is-marketing/ ',
     },
     {
       referencia:
@@ -255,7 +256,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -276,13 +277,13 @@ export default {
         },
         {
           nombre: 'Maria Camila Álvarez',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
             'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
         },
         {
           nombre: 'Liliana Ceballos',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
             'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
         },

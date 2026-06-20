@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Este concepto ha tenido múltiples definiciones, por lo cual esta ruta formativa se inicia abordando el concepto de mercadeo desde la postura de diferentes autores, #[strong con el propósito de describir la evolución del concepto, su importancia para las organizaciones y cómo se ha llegado al concepto de #[em marketing] que hoy prevalece.] A continuación se puede encontrar definciónes de mercadeo.
+          p.mb-0 Este concepto ha tenido múltiples definiciones, por lo cual esta ruta formativa se inicia abordando el concepto de mercadeo desde la postura de diferentes autores, #[strong con el propósito de describir la evolución del concepto, su importancia para las organizaciones y cómo se ha llegado al concepto de #[em marketing] que hoy prevalece.] A continuación se puede encontrar definiciones de mercadeo.
  
     .row.align-items-center.mb-5.justify-content-center
       .col-lg-8(data-aos="fade-right").custom-tabs

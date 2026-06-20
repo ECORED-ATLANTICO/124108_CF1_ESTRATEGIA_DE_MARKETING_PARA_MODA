@@ -17,24 +17,28 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-6.col-lg-4
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/2.png", alt="4p")
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 1.
+          span Variables conocidas como las 4P
+        img.mb-2(data-aos="fade-down-right", src="@/assets/curso/tema4/2.png", alt="En la figura se describen las variables conocidas como las 4P, donde se detalla: producto, precio, distribución y comunicación.")
+        figcaption Nota. SENA, (2026).
+          
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p20")
-          .row(titulo="¿Cuál es tu producto o servicio?").justify-content-center.align-items-center
+          .row(titulo="¿Cuál es su producto o servicio?").justify-content-center.align-items-center
             .col-12
               p El producto podría definirse como #[strong todo lo que se pone a disposición del consumidor, y puede comprender bienes y servicios]. Según Lam, Hair & McDaniel (2011), el producto es la gran pieza clave dentro del #[em marketing mix] (producto, precio, promoción y distribución); además, consideran al #[strong producto como elemento primordial dentro del proceso de producción], debido a que es el punto de partida de toda comercialización.
               p.mb-0 Dichos productos se deben diferenciar de otros y postularse como únicos a través de las cualidades o atributos que se les ponga. Es posible hablar de variedad, diseño, características, marcas, servicios, garantías.
-          .row(titulo="¿Cuánto cobras? / ¿Cómo afecta esto tu marca?").justify-content-center.align-items-center
+          .row(titulo="¿Cuánto cobra? / ¿Cómo afecta esto su marca?").justify-content-center.align-items-center
             .col-12
               p Es la variable relacionada con los ingresos, o la suma de valores que se requiere para  realizar un intercambio, es decir, #[strong la cantidad de dinero que se requiere para adquirir un producto y/o servicio]. 
               p Para Baena y Moreno (2010), es el costo que debe desembolsar o pagar el consumidor (cliente) para obtener la mercancía en un momento dado, ya sea en el mercado o en el lugar específico de venta (p.97). 
               p.mb-0 Como indicadores del precio, se podrían plantear el precio del valor para el cliente y los precios según la competencia.
-          .row(titulo="¿Cómo se enteran tus clientes de tus productos? ¿Qué estrategias utilizas?").justify-content-center.align-items-center
+          .row(titulo="¿Cómo se enteran los clientes de sus productos? ¿Qué estrategias utiliza?").justify-content-center.align-items-center
             .col-12
               p Son las técnicas de publicidad  para dar a conocer el servicio o producto en un mercado determinado. Podemos dar cuenta de medios, canales y técnicas  que nos posibilitan dar a conocer nuestro producto.
               p.mb-0 Kotler y Armstrong (2013) definen la promoción como #[strong el conjunto de actividades sistemáticas que promueven información y datos sobre las cualidades de un producto o servicio para inculcar y promover la adquisición por parte del comprador].
-          .row(titulo="¿Dónde promocionas tu producto o servicio? ¿Dónde te encuentran los clientes?").justify-content-center.align-items-center
+          .row(titulo="¿Dónde promociona su producto o servicio? ¿Dónde lo encuentran los clientes?").justify-content-center.align-items-center
             .col-12
               p.mb-0 Hace referencia  a los #[strong lugares de venta y a los canales de distribución].
 
