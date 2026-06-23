@@ -58,7 +58,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-6.col-lg-5
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/6.png", alt="Imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/6.png", alt="")
       .col-lg-7
         .d-flex.flex-column.gap-3
           div.bg-terciario-t20.position-relative.ms-5.p-4.rounded-3
@@ -93,7 +93,7 @@
             p.mb-0.ps-5 Ayuda a posicionarse en el mercado ante clientes, usuarios y competidores.
       .col-6.col-lg-5.d-none.d-lg-block
         figure
-          img(data-aos="fade-down-right", src="@/assets/curso/tema3/17.png", alt="Imagen de acompañamiento")
+          img(data-aos="fade-down-right", src="@/assets/curso/tema3/17.png", alt="")
         
 
 </template>

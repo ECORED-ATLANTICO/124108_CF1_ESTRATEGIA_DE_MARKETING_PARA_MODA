@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.factores-slider.z-2.mb-5
       .d-none.d-xl-block.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/2.png", alt="Imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema2/2.png", alt="")
       .col-xl-8
         SlyderF(columnas="col-lg-6")
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta

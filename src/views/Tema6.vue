@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema6/1.png", alt="Imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema6/1.png", alt="")
       .col-lg-8
         p.mb-3 Desde el mercadeo, se plantea que, para el éxito empresarial, #[strong es necesario proporcionar mayor valor y satisfacción al cliente que lo que pueden generar los competidores dentro de una industria o mercado]. Analizar la competencia es el proceso de generar ventaja estratégica competitiva, mediante el proceso de posicionar la propuesta de valor en la mente de los consumidores, destacándose en comparación con la oferta de los competidores.
         .p-4.bg-amarillo-claro.rounded-3.mb-3

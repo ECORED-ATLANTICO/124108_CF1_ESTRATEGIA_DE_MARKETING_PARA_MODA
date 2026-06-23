@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/1.png", alt="Imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/1.png", alt="")
       .col-lg-8
         p.mb-3 Las empresas o negocios, por pequeños que sean, #[strong requieren una guía o ruta para planificar todas las acciones y estrategias para el cumplimiento de su objetivo]. Existen múltiples definiciones de lo que es un plan estratégico de mercadeo, pero se puede decir que hace referencia a la planeación sistemática y estructurada de la posición competitiva de la empresa, partiendo del análisis y conocimiento del mercado y buscando oportunidades que la empresa pueda realizar para satisfacer las necesidades de los consumidores, de manera óptima, eficiente y con calidad, a diferencia de los competidores.
         .p-4.bg-amarillo-claro.rounded-3.mb-3

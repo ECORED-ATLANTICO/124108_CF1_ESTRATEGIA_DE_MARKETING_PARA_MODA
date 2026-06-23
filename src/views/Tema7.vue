@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/2.png", alt="imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/2.png", alt="")
       .col-lg-8
         .p-4.bg-color-terciario.rounded-3.mb-3
           p.mb-0 Según Rincón (2017), #[strong el comercio electrónico es una metodología inteligente para hacer negocios, la cual es capaz de detectar necesidades de empresas, comerciantes y consumidores]. Asimismo, ayuda a la reducción de costos de operación y desplazamientos de los intervinientes en la relación comercial, además de mejorar el tiempo de entrega de los bienes, ya sean estos productos o servicios. 
@@ -38,7 +38,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/4.png", alt="imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/4.png", alt="")
       .col-lg-8
         p.mb-0 El #[em e-commerce] surge como una manera de cubrir la demanda de negocios globales y hace parte de la economía mundial. Se considera #[strong fundamental para el desarrollo empresarial a nivel internacional e, incluso a nivel social], está definiendo con fuerza, pues permite eliminar barreras entre países con el intercambio de bienes y servicios, mediante un contacto totalmente digitalizado, en tiempo real, entre un proveedor y un cliente con fines netamente comerciales, lo que posibilita altas penetraciones a nivel global. Existen varias modalidades de comercio electrónico. Es de destacar que se pueden definir cuatro tipos de comercio electrónico (Silva Murillo, 2009, p.158-161), como se aprecia a continuación.
 
@@ -47,7 +47,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/5.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/5.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Negocio a Negocio B2B
             p.mb-0 El intercambio es mediante canales digitales.
@@ -56,7 +56,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/6.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/6.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Negocio a Cliente B2C
             p.mb-0 Se utiliza un sitio web para exponer sus productos.
@@ -65,7 +65,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/7.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/7.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Cliente a Cliente C2C
             p.mb-0 Relación entre clientes, a través de la web, para venta y compra.
@@ -74,7 +74,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/8.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/8.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Cliente a Negocio C2B
             p.mb-0 Se comunica la necesidad y la empresa la resuelve.
@@ -89,7 +89,7 @@
     .row.justify-content-center.align-items-center.factores-slider.z-2
       .d-none.d-xl-block.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/9.png", alt="Imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema7/9.png", alt="")
       .col-xl-8
         SlyderF(columnas="col-lg-6")
           .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
@@ -168,7 +168,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/19.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/19.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Abstención absoluta de intromisión legislativa en el ciberespacio.
             p.mb-0 Se afirma que el ciberespacio es un escenario con autonomía y sin jurisdicción del Estado.
@@ -177,7 +177,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/20.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/20.png", alt="")
           .crd_hover_txt--body.pt-2.pt-md-4
             h4.mb-3 Autorregulación a partir del marco propiciado por los sujetos involucrados.
             p.mb-0 Son códigos de conducta derivados de la participación de los grupos, gremios o asociaciones suministradoras de acceso a Internet.
@@ -186,7 +186,7 @@
         .crd_hover_txt.rounded-4.overflow-hidden(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema7/21.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/21.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Regulación legislativa basada en las normativas actuales.
 
@@ -200,66 +200,48 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 En materia de #[em e-commerce] en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999 y el decreto 1747 de 2000. Estas son algunas declaraciones regulatorias. 
+          p.mb-0 En materia de #[em e-commerce] en Colombia, la normatividad tiene como marco jurídico la Ley 527 de 1999, el Decreto 2364 de 2012, el Decreto 333 de 2014 y el Decreto 1074 de 2015. Estas son algunas disposiciones regulatorias. 
 
     .bg-linea-tiempo.mb-6
       PasosB.color-secundario.mt-5.bg-white.z-2.p-4.rounded-4
         .row.justify-content-center.align-items-center(titulo="Ley 527 de 1999")
           .col-lg-7.col-xl-6
             h5 Ley 527 de 1999
-            p.mb-4.mb-lg-0 Es la encargada de regular las transacciones en la red y brindar el soporte jurídico para la realización de las operaciones por medios electrónicos. El uso de los mensajes de datos, las firmas digitales para todas las actividades, así como la costumbre mercantil en materia de #[em e-commerce] están reglamentados a partir de esta ley.
+            p.mb-4.mb-lg-0 Es la encargada de regular las transacciones en la red y brindar el soporte jurídico para la realización de las operaciones por medios electrónicos. El uso de los mensajes de datos, las firmas digitales y las entidades de certificación para las actividades de comercio electrónico están reglamentados a partir de esta ley. Adicionalmente, la firma electrónica fue reglamentada mediante el Decreto 2364 de 2012, mientras que el régimen de entidades de certificación fue actualizado mediante el Decreto 333 de 2014.
           .col-10.col-lg-5.col-xl-4
             figure
-              img(src="@/assets/curso/tema7/23.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/23.png", alt="")
 
-        .row.justify-content-center.align-items-center(titulo="Decreto 1747 de 2000")
+        .row.justify-content-center.align-items-center(titulo="Decreto 333 de 2014")
           .col-lg-7.col-xl-6
-            h5 Decreto 1747 de 2000
-            p.mb-4.mb-lg-0 Reglamenta parcialmente la ley 527 de 1999, en lo relacionado con las entidades de certificación, los certificados y las firmas digitales. Está fundamentado en los principios de la Comisión de Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI). Este decreto, aunque no tiene definida explícitamente reglamentación sobre la protección del consumidor, sí cita el estatuto 1480 del 2011 que protege a los consumidores, buscando nivelar al consumidor, desde una perspectiva legal, con las condiciones de ventaja que tienen comercializadores y productores.
+            h5 Decreto 333 de 2014
+            p Reglamenta parcialmente la Ley 527 de 1999 en lo relacionado con las entidades de certificación, los certificados y las firmas digitales. Está fundamentado en principios internacionales aplicables al comercio electrónico y actualiza el régimen jurídico de certificación digital en Colombia. 
+            p.mb-4.mb-lg-0 Aunque no regula de manera específica la protección al consumidor, esta materia se encuentra desarrollada en la Ley 1480 de 2011 (Estatuto del Consumidor), la cual protege los derechos de los consumidores y establece disposiciones aplicables a las transacciones realizadas mediante comercio electrónico. 
           .col-10.col-lg-5.col-xl-4
             figure
-              img(src="@/assets/curso/tema7/24.png", alt="Imagen de acompañamiento")
+              img(src="@/assets/curso/tema7/24.png", alt="")
 
         .row.justify-content-center.align-items-center(titulo="CONPES 3620 de 2009")
-          .col-lg-7.col-xl-6
+          .col-12
             h5 CONPES 3620 de 2009
-            p.mb-4.mb-lg-0 Este documento de política pública contiene los lineamientos de política para el desarrollo e impulso del #[em e-commerce] en Colombia y se incorpora en el plan de acción de la protección de datos personales; recomienda promover y aplicar la ley 1266 de 2008, que es la que dicta las disposiciones generales del habeas data y regula el manejo de la información en sectores diferentes al comercial y financiero, a nivel nacional e internacional.
-          .col-10.col-lg-5.col-xl-4
-            figure
-              img(src="@/assets/curso/tema7/25.png", alt="Imagen de acompañamiento")
-
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.bg-terciario-t20.rounded-3
-      .col-lg-9.p-3.p-xl-0
-        p.mb-4.mb-lg-0 A pesar de que hay un piso normativo para el comercio electrónico, Colombia sigue teniendo vacíos jurídicos, que pueden perjudicar la aplicación de este modelo y generar molestias en la relación entre el comprador y la plataforma, poniendo en riesgo el nivel de satisfacción y, por ende, las ventas. A continuación, se enuncian algunos de dichos vacíos.
-      .col-8.col-sm-6.col-lg-2
-        figure
-          img.mb-4.mb-lg-0(src="@/assets/curso/tema7/26.png", alt="Imagen decorativa" data-aos="fade-left")
-
-    .row.justify-content-center.align-items-stretch.factores-slider.factores-slider--azul.mb-4.mb-lg-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
-          .row.justify-content-center
-            .col-7
-              img.mb-4(src='@/assets/curso/tema7/27.png' alt='Ilustacion de acompañamiento')
-            p.mb-4.text-center.text-bold Bajos niveles de seguridad.
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
-          .row.justify-content-center
-            .col-7
-              img.mb-4(src='@/assets/curso/tema7/28.png' alt='Ilustacion de acompañamiento')
-            p.mb-4.text-center.text-bold No está claramente implementada la firma y la factura electrónica.
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0
-        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
-          .row.justify-content-center
-            .col-7
-              img.mb-4(src='@/assets/curso/tema7/29.png' alt='Ilustacion de acompañamiento')
-            p.mb-4.text-center.text-bold No está claramente definido el tema de protección del consumidor.
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0
-        .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta.my-3.mx-0
-          .row.justify-content-center
-            .col-7
-              img.mb-4(src='@/assets/curso/tema7/30.png' alt='Ilustacion de acompañamiento')
-            p.mb-4.text-center.text-bold Aún se presenta baja protección de datos personales, manifestada en la manipulación y hospedaje de dichos datos.
+            p Este documento de política pública contiene los lineamientos para el desarrollo e impulso del comercio electrónico en Colombia. Aunque no constituye una norma jurídica vigente, representa un referente para la formulación de estrategias relacionadas con la transformación digital y el comercio electrónico. 
+            p Asimismo, recomienda promover y aplicar las disposiciones relacionadas con la protección de datos y el hábeas data. En este sentido, la Ley 1266 de 2008 regula el manejo de la información financiera, crediticia, comercial, de servicios y la proveniente de terceros países, mientras que la Ley 1581 de 2012 establece el régimen general de protección de datos personales en Colombia. Estas disposiciones se encuentran reglamentadas y compiladas en el Decreto 1074 de 2015. 
+           
+    .row.justify-content-center.align-items-center.mb-4.bg-terciario-t20.rounded-3.p-4
+      p A pesar de que Colombia cuenta con un marco normativo cada vez más robusto para regular el comercio electrónico, continúan existiendo desafíos asociados a la evolución tecnológica, la seguridad digital y la adecuada aplicación de las normas, aspectos que pueden afectar la relación entre compradores y vendedores y, por ende, la confianza en los entornos digitales. A continuación, se enuncian algunos de dichos vacíos. 
+      ul.lista-ul.ms-3.custom-list
+        li.d-flex 
+          i.lista-ul__vineta
+          | Bajos niveles de seguridad. 
+        li.d-flex 
+          i.lista-ul__vineta
+          | La firma electrónica y la firma digital cuentan con marco jurídico definido en la Ley 527 de 1999, el Decreto 2364 de 2012 y el Decreto 333 de 2014. De igual forma, la factura electrónica dispone de regulación tributaria específica, entre otras normas, el Decreto 358 de 2020 y la Resolución DIAN 000165 de 2023, junto con sus modificaciones posteriores. 
+        li.d-flex 
+          i.lista-ul__vineta
+          | La protección del consumidor se encuentra regulada por la Ley 1480 de 2011 (Estatuto del Consumidor), que establece disposiciones aplicables al comercio electrónico, el deber de información, la publicidad, las garantías y los derechos de los consumidores. 
+        li.d-flex 
+          i.lista-ul__vineta
+          | Colombia cuenta con un régimen general de protección de datos personales establecido en la Ley 1581 de 2012 y reglamentado en el Decreto 1074 de 2015. No obstante, persisten retos relacionados con la gestión adecuada de la información y el cumplimiento de las obligaciones por parte de las organizaciones. 
 
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
       p.mb-0 Hasta aquí, se ha hecho una aproximación conceptual relacionada con tipos de mercadeo, plan estratégico de mercadeo y marco legal del #[em e-commerce] y redes sociales. Es recomendable mantener una actitud de aprendizaje a lo largo de la vida en los temas que aquí convocan, ya que, debido a las dinámicas sociales, ellos pueden tener mejoras conceptuales.

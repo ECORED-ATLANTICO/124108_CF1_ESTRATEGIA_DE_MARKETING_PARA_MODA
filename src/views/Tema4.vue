@@ -45,7 +45,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/3.png", alt="imagen de acompañamiento")
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/3.png", alt="")
       .col-lg-8
         .p-4.bg-amarillo-claro.rounded-3.mb-3
           p.mb-0 El avance más significativo, sin duda, fue el paso del #[em marketing] al mundo digital; sin embargo, a pesar de que han sido significativas en las estrategias de #[em marketing] por muchos años, las 4P han evolucionado con las necesidades del mercado y han sido sustituidas por las 4C.
@@ -59,7 +59,7 @@
             p.mb-4.mb-lg-0 Todas las estrategias para promocionar y vender un producto se basan en #[strong los gustos, deseos y necesidades de los consumidores], por ello, el #[em marketing] digital está tan enfocado en conocer y analizar su público a través de diversas técnicas para lograr efectividad en sus procesos.
           .col-10.col-sm-8.col-lg-3
             figure
-              img.img-265(src='@/assets/curso/tema4/8.png', alt='Imagen de acompañamiento')
+              img.img-265(src='@/assets/curso/tema4/8.png', alt='')
       .py-4.py-md-5.px-3(titulo="Costo" :icono="require('@/assets/curso/tema4/5.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-9.col-xl-8
@@ -67,7 +67,7 @@
             p.mb-4.mb-lg-0 Este se entiende como el precio a pagar por un bien o servicio, el cual puede depender de distintos factores, como la producción, la calidad o el poder adquisitivo del público objetivo. Esta información será usada por el consumidor para #[strong decidir si adquiere o no dicho elemento].
           .col-10.col-sm-8.col-lg-3
             figure
-              img.img-265(src='@/assets/curso/tema4/9.png', alt='Imagen de acompañamiento')
+              img.img-265(src='@/assets/curso/tema4/9.png', alt='')
       .py-4.py-md-5.px-3(titulo="Conveniencia" :icono="require('@/assets/curso/tema4/6.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-9.col-xl-8
@@ -75,7 +75,7 @@
             p.mb-4.mb-lg-0 Supone el proceso de compra, teniendo en cuenta el servicio al cliente, #[strong la comodidad del consumidor y claridad de información del producto] o servicio que va a adquirir, lo que permite fidelizar a un público.
           .col-10.col-sm-8.col-lg-3
             figure
-              img.img-265(src='@/assets/curso/tema4/10.png', alt='Imagen de acompañamiento')
+              img.img-265(src='@/assets/curso/tema4/10.png', alt='')
       .py-4.py-md-5.px-3(titulo="Comunicación" :icono="require('@/assets/curso/tema4/7.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-9.col-xl-8
@@ -83,7 +83,7 @@
             p.mb-4.mb-lg-0 Los procesos comunicativos dentro del #[em marketing] digital juegan un papel muy importante, estos pueden definir la personalidad, interacción y conexión de la marca con su público; además, #[strong permiten realizar una entrega de información coherente] que logre una capitalización del tiempo invertido en lograr estos lazos de unión.
           .col-10.col-sm-8.col-lg-3
             figure
-              img.img-265(src='@/assets/curso/tema4/11.png', alt='Imagen de acompañamiento')
+              img.img-265(src='@/assets/curso/tema4/11.png', alt='')
          
 </template>
 
