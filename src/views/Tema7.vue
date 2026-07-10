@@ -189,6 +189,7 @@
               img(src="@/assets/curso/tema7/21.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 Regulación legislativa basada en las normativas actuales.
+            p.mb-0 Consiste en la aplicación de las leyes vigentes al entorno digital, mediante normas que regulan las transacciones electrónicas, protegen los derechos de consumidores y proveedores, y establecen responsabilidades para los actores que participan en el comercio electrónico.
 
     Separador
     

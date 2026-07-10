@@ -219,7 +219,7 @@ export default {
     {
       referencia:
         'Iniestra, L. (2015). <em>Implementación de mercadotecnia digital a una empresa de chocolate gourmet</em> [Tesis de maestría, Instituto Politécnico Nacional]. Repositorio Nacional.',
-      link: 'https://www.repositorionacionalcti.mx/',
+      link: '',
     },
     {
       referencia:
@@ -325,6 +325,16 @@ export default {
             'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
         },
         {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor metodológico y pedagógico',
+          centro: 'Centro de Diseño Y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Uriel Darío González Montoya',
+          cargo: 'Acompañamiento pedagógico',
+          centro: 'Centro Agropecuario La Granja - Regional Tolima',
+        },
+        {
           nombre: 'Liliana Ceballos',
           cargo: 'Contratista diseño curricular',
           centro:
@@ -359,37 +369,37 @@ export default {
         {
           nombre: 'Zuleidy María Ruíz Torres',
           cargo: 'Producción audiovisual',
-          centro: 'Centro de Comercio y Servicios Regional - Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Víctor Cardenas',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Camilo Villamizar',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Ludwyng Corzo',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
