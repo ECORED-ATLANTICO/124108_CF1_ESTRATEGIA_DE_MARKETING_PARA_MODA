@@ -316,13 +316,13 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Maria Camila Álvarez',
           cargo: 'Contratista diseño curricular',
           centro:
-            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+            'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -338,13 +338,13 @@ export default {
           nombre: 'Liliana Ceballos',
           cargo: 'Contratista diseño curricular',
           centro:
-            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+            'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Cristian Metaute Medina',
           cargo: 'Diseñador instruccional',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
